@@ -1,0 +1,44 @@
+assignment 
+
+1.Various sources of big data
+
+big data is when data size exceeds beyond existinf software capability
+its sources are
+
+1)public web
+2)stocks
+3)media
+4)weather forecast
+
+
+==========================================================
+
+2.3 V's of bigdata
+
+1)volume-data size
+2)vareity-data source
+3)velocity-speed of change
+
+
+==========================================================
+
+3.Horizontal scaling and verical scaling
+
+1) horizontal scaling is scaling by adding more machines into the resources or setting up a cluster
+   also known as scale-out
+
+2)adding more resources to the machines i.e adding more power like CPU,RAM,memory is vertical scaling
+  it is also known as scale-up
+
+============================================================
+
+4)Need and working of Hadoop
+
+hadoop is needed when we have problems like processing unimaginable size of data
+ used in processing structured and unstructured data
+
+working :
+*data storage is done using HDFS
+*processing is done by MapReduce
+
+
